@@ -1,0 +1,149 @@
+<resources>
+    <string name="app_name">FamiljeSpel</string>
+    <string-array name="PimPamPet_words_array">
+        <item>Huvudstäder</item>
+        <item>Länder</item>
+        <item>Saker mindre än en banan</item>
+        <item>Sånt man kan hitta på en bondgård</item>
+        <item>Något blått</item>
+        <item>Något rött</item>
+        <item>Något gult</item>
+        <item>Något grönt</item>
+        <item>Flicknamn</item>
+        <item>Pojknamn</item>
+        <item>Färdmedel</item>
+        <item>Något man kan äta</item>
+        <item>Något man brukar ha i en soppa</item>
+        <item>En sorts paj</item>
+        <item>Nånting runt</item>
+        <item>Något lila</item>
+        <item>Städer</item>
+        <item>Möbel</item>
+        <item>Klädesplagg</item>
+        <item>Accessoar</item>
+    </string-array>
+    <string-array name="MedAndraOrd_words_array">
+        <item>Ambulans</item>
+        <item>Träsked</item>
+        <item>Lakritsbåt</item>
+        <item>Kalle Anka</item>
+        <item>Visselpipa</item>
+        <item>Diskmedel</item>
+        <item>Tvättmedel</item>
+        <item>Öltält</item>
+        <item>Giraff</item>
+        <item>Diskhandduk</item>
+        <item>Kattunge</item>
+        <item>Traktor</item>
+        <item>Tallriksharv</item>
+        <item>Tiger</item>
+        <item>Starksprit</item>
+        <item>Batteri</item>
+        <item>Sjörövarskepp</item>
+        <item>Trollkarlshatt</item>
+        <item>Bokträd</item>
+        <item>Nyckelknippa</item>
+        <item>Toalettpapper</item>
+        <item>Skruvmejsel</item>
+        <item>Regnjacka</item>
+        <item>Hundvalp</item>
+        <item>Katt</item>
+        <item>Video-/Filmkamera</item>
+        <item>Tjuv</item>
+        <item>Lastbil</item>
+        <item>Kollektivtrafik</item>
+        <item>Buss</item>
+        <item>Huvudstad</item>
+        <item>Salt</item>
+        <item>Peppar</item>
+        <item>Knapp</item>
+        <item>Spak</item>
+        <item>Ratt</item>
+        <item>Triangel</item>
+        <item>Fyrkant</item>
+        <item>Kub</item>
+        <item>Vinglas</item>
+        <item>Fläkt</item>
+        <item>Ugnsplåt</item>
+        <item>Mobiltelefon</item>
+        <item>Troll</item>
+        <item>Diskmaskin</item>
+        <item>Saftblandare</item>
+        <item>Gammal tant</item>
+        <item>Gammal gubbe</item>
+        <item>Tjuraknutan</item>
+        <item>Kalvatäppan</item>
+        <item>Maskinhall</item>
+        <item>Brevlåda</item>
+        <item>Hockeyspelare</item>
+        <item>Målvakt</item>
+        <item>Kardborrband</item>
+        <item>Strömbrytare</item>
+        <item>Göta kanal</item>
+        <item>Tjocktröja</item>
+        <item>Byxor</item>
+        <item>Lilltå</item>
+        <item>Långfinger</item>
+        <item>Fågelholk</item>
+        <item>Krukväxt</item>
+        <item>Taklampa</item>
+        <item>Strålkastare</item>
+        <item>Eld</item>
+        <item>Pannkaks-smet</item>
+        <item>IKEA</item>
+        <item>Rinkaby rör</item>
+        <item>Höna</item>
+        <item>Tupp</item>
+        <item>Ljusstake</item>
+        <item>Dragkedja</item>
+        <item>Dragkamp</item>
+        <item>Skrivbord</item>
+        <item>Matbord</item>
+        <item>Tvättstuga</item>
+        <item>Röda mattan</item>
+        <item>Whiskey sour</item>
+        <item>Diadem</item>
+        <item>Triumfbåge</item>
+        <item>Räv</item>
+        <item>Grävling</item>
+        <item>Trump</item>
+        <item>Fisk</item>
+        <item>Kräfta</item>
+        <item>Räka</item>
+        <item>Kaviar</item>
+        <item>Väska</item>
+        <item>Plywood</item>
+        <item>Gris</item>
+        <item>Igelkott</item>
+        <item>Apelsin</item>
+        <item>Zebra</item>
+        <item>Tango</item>
+        <item>Feber</item>
+        <item>Dansgolv</item>
+        <item>Rallybil</item>
+        <item>Banan</item>
+        <item>Frukt</item>
+        <item>Piruett</item>
+        <item>Stekjärn</item>
+        <item>Avloppsbrunn</item>
+        <item>Oas</item>
+        <item>Synvilla</item>
+        <item>Villa</item>
+        <item>Leksak</item>
+        <item>Gud</item>
+        <item>Bok</item>
+        <item>Ljus</item>
+        <item>Trägolv</item>
+        <item>Spik</item>
+        <item>Sladd</item>
+        <item>Strykjärn</item>
+        <item>Facebook</item>
+        <item>Dörrhandtag</item>
+        <item>Papperspåse</item>
+        <item>Hårspray</item>
+        <item>Ögonbryn</item>
+        <item>Lådvin</item>
+        <item>Ko-hage</item>
+        <item>Gräsmatta</item>
+    </string-array>
+</resources>
